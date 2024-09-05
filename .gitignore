@@ -1,0 +1,4 @@
+# Project exclude paths
+/jpaBase-main/.gradle/
+/jpaBase-main/build/
+/jpaBase-main/build/classes/java/main/
