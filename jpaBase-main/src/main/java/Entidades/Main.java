@@ -46,7 +46,7 @@ public class Main {
                     .apellido("Fernandez")
                     .dni(2440000)
                     .nombre("Juan")
-                    .domicilio(domicilio1)  //asigno domicilio en sobremonte
+                    .domicilio(domicilio1)  
                     .build();
 
             //Creo una factura
